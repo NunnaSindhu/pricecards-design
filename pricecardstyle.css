@@ -1,0 +1,33 @@
+.list-group-item {
+    font-size: 25px;
+    font-family: times, "Times New Roman";
+    padding:20px;
+    width:100%;
+   
+    
+}
+.active{
+    font-size:30px;
+}
+.gray{
+    background-color: lightgray;
+   
+}
+a{
+    color:rgb(9, 9, 117);
+    text-decoration:none;
+}
+.own{
+    text-align: center;
+   
+   
+}
+.list-group{
+    border:2px solid black;
+    align-items: center;
+    
+}
+.list-group:hover{
+    box-shadow: 0px 8px 15px 0 rgb(255, 0, 119);
+}
+
